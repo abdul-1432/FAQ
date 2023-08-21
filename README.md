@@ -1,6 +1,6 @@
 # Frequently Asked Questions (FAQ) for HTML, CSS, and JavaScript
 
-Welcome to the Frequently Asked Questions (FAQ) repository for HTML, CSS, and JavaScript! This repository aims to provide answers to common questions and issues that developers often encounter while working with web technologies. Whether you're a beginner or an experienced developer, you'll find valuable information here to help you tackle challenges and improve your web development skills.
+Welcome to the Frequently Asked Questions (FAQ) repository for HTML, CSS, and JavaScript! This repository aims to answer common questions and issues that developers often encounter while working with web technologies. Whether you're a beginner or an experienced developer, you'll find valuable information here to help you tackle challenges and improve your web development skills.
 
 ![1](https://github.com/abdul-1432/FAQ/assets/124916666/2fb43846-7032-4c03-8145-0228db38a46c)
 ![2](https://github.com/abdul-1432/FAQ/assets/124916666/d9d0900e-57ce-40ec-ad77-5ea9cde4c281)
@@ -26,7 +26,7 @@ This FAQ repository is organized into sections for HTML, CSS, and JavaScript to 
 
 ## HTML FAQs
 
-In the [HTML FAQs](html-faqs.md) section, you'll find answers to frequently asked questions related to HTML. Topics covered include:
+In the [HTML FAQs](#) section, you'll find answers to frequently asked questions related to HTML. Topics covered include:
 
 - Basic structure and syntax of HTML documents
 - Working with HTML elements and attributes
@@ -37,7 +37,7 @@ In the [HTML FAQs](html-faqs.md) section, you'll find answers to frequently aske
 
 ## CSS FAQs
 
-The [CSS FAQs](css-faqs.md) section provides solutions to common issues encountered when working with CSS. Topics covered include:
+The [CSS FAQs](#) section provides solutions to common issues encountered when working with CSS. Topics covered include:
 
 - Applying styles to HTML elements
 - Selectors and specificity
@@ -49,7 +49,7 @@ The [CSS FAQs](css-faqs.md) section provides solutions to common issues encounte
 
 ## JavaScript FAQs
 
-The [JavaScript FAQs](javascript-faqs.md) section addresses common questions and problems faced by developers using JavaScript. Topics covered include:
+The [JavaScript FAQs](#) section addresses common questions and problems faced by developers using JavaScript. Topics covered include:
 
 - Variables, data types, and operators
 - Control structures: conditionals and loops
