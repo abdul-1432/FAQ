@@ -7,6 +7,7 @@ Welcome to the Frequently Asked Questions (FAQ) repository for HTML, CSS, and Ja
 ![3](https://github.com/abdul-1432/FAQ/assets/124916666/283264e1-f103-45de-aa40-6b907ca456ea)
 ![4](https://github.com/abdul-1432/FAQ/assets/124916666/2c2aa636-386c-4213-8b98-a4db533e0d0d)
 ![5](https://github.com/abdul-1432/FAQ/assets/124916666/8a16bfc3-2aa1-421e-807d-c12452795c9c)
+![6](https://github.com/abdul-1432/FAQ/assets/124916666/36498223-d6cf-4ea8-ac01-78dcb695d5ff)
 
 ## Table of Contents
 
